@@ -9,14 +9,14 @@ This project contains a Jupyter Notebook that demonstrates regional-residual sep
 - **Tools Used**: 
   - **Python**
   - **Jupyter Notebook**
-  - **Verde** from **Fatiando a Terra**
+  - [Verde](https://github.com/fatiando/verde) from [Fatiando a Terra](https://www.fatiando.org)
 
 ## Getting Started
 
 To run the notebook, you will need to have Python and the required libraries installed. Key dependencies include:
 
 - Python 3.8 or above
-- Verde (`pip install verde`)
+- [Verde](https://github.com/fatiando/verde) (`pip install verde`)
 - Other standard libraries such as NumPy, Matplotlib, and Pandas
 
 ## Usage
