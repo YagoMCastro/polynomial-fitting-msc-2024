@@ -1,6 +1,6 @@
 # Regional-Residual Separation using Polynomial Fitting
 
-This project contains a Jupyter Notebook that demonstrates regional-residual separation using polynomial fitting. The approach leverages the [Verde](https://github.com/fatiando/verde) Python library, part of the **Fatiando a Terra** suite, to efficiently perform the separation of regional and residual components in geophysical data.
+This project contains a Jupyter Notebook that demonstrates regional-residual separation using polynomial fitting. The approach leverages the [Verde](https://github.com/fatiando/verde) Python library, part of the [Fatiando a Terra](https://www.fatiando.org) suite, to efficiently perform the separation of regional and residual components in geophysical data.
 
 ## About the Project
 
